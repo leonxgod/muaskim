@@ -1,0 +1,23 @@
+{
+  "name": "muaskim",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "leonxgod",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.9",
+    "gtts": "^0.2.1",
+    "html-to-image": "^1.6.2",
+    "instagram-id-to-url-segment": "0.0.0",
+    "instagram-private-api": "^1.45.1",
+    "node-fetch": "^2.6.1",
+    "telebot": "^1.4.1",
+    "text-to-speech-js": "^1.1.10",
+    "utf8": "^3.0.0"
+  }
+}

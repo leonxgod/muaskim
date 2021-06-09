@@ -1,0 +1,19 @@
+    {
+      "name": "Muaskim",
+      "logo": "https://i.hizliresim.com/p0t14ve.jpg",
+      "description": "Telegram's sassiest group manager. Modular Telegram group management bot!",
+      "keywords": [
+        "telegram",
+        "best",
+        "group",
+        "manager",
+        "3"
+      ],
+      "repository": "https://github.com/leonxgod/muaskim_bot",
+      "env": {
+        "token": {
+          "description": "Token of your boot",
+          "value": ""
+        }
+      }
+    }
