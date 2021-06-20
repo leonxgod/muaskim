@@ -1,4 +1,4 @@
-# [Muaşkım bot](https://t.me/MissRose_bot)
+# [Muaşkım bot](https://t.me/muaskim_bot)
 
 ### Deploy
 
@@ -6,4 +6,4 @@
 
 ## Profile
 
-![Rose Profile](https://s3.resmim.net/dUd6.png)
+![Muaşkım Profile](https://github.com/leonxgod/muaskim/blob/master/image.jpg)
